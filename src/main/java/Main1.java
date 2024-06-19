@@ -1,4 +1,6 @@
 public class Main1 {
-    prrivate int start = 0;
-    prrivate int begin = 0;
+    private int start = 0;
+    private int begin = 0;
+    private int abc = 0;
+
 }
